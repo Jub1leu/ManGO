@@ -1,3 +1,9 @@
+About:
+Discontinued project, which aimed to develop an urban mobility application, based on collective transport.
+
+-The project has only initial interfaces, not functional.
+
+
 # Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
